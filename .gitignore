@@ -1,0 +1,6 @@
+
+*~
+*.o
+predb
+.ccls-cache/
+.gdb_history
